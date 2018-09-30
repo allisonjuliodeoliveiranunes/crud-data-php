@@ -1,0 +1,90 @@
+html{
+    min-height: 100%;
+}
+*{
+    margin: 0 !important;
+    padding: 0;
+}
+a:hover{
+    color: currentColor !important;
+    text-decoration: none !important;
+}
+.btn-default:hover{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+.container{
+    margin: 20px auto !important;
+}
+.content{
+    padding: 0px 0;
+    height: 100%;
+}
+nav .nav-wrapper {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto !important;
+}
+.material-icons{
+    color: #909090 !important;margin: 0px 10px 0 0 !important;
+    position: relative;
+    top: 3px;
+    font-size: 17px !important;
+}
+.btn-default{
+    margin-bottom: 10px !important;
+}
+.flex{
+    display: flex;
+    widows: 100%;
+}
+.flex .input-field{
+    margin: 0 0px 0 20px !important;
+    display: table;
+    width: 100%;
+    height: 20px;
+    padding: 0 !important;
+}
+.flex .input-field input{
+    height: 33px !important;
+}
+.card.dados{
+    transition: all .1s linear !important;
+    position: relative;
+    margin-top: 20px !important;
+    padding: 23px;
+    margin-right: 20px !important;
+    display: table;
+}
+
+span.badge {
+    margin-left: 14px !important;
+    text-align: center;
+    font-size: 12px !important;
+    line-height: 22px;
+    height: auto !important;
+    color: currentColor !important;
+    float: right;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background: transparent !important;
+}
+h6{
+    color: #fff !important;
+}
+.fixed-table-body{
+    height: auto !important;
+}
+.fixed-table-container tbody tr td{
+    border: none !important;
+}
+tr.total {
+    color: #fff;
+}
+tr.total span{
+    padding-left: 15px;
+    font-weight: bold;
+}
+.card.data {
+    padding: 20px;
+}
