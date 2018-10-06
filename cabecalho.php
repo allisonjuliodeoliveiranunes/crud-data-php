@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Teste Natyeli</title>
+  <title>Busca .json</title>
   <link rel="stylesheet" href="estilo.css">
   <link href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -12,7 +12,7 @@
 <Body>
 <nav  class="indigo lighten-1">
   <div class="nav-wrapper">
-    <a href="#!" class="brand-logo">Natylei Letícia</a>
+    <a href="#!" class="brand-logo">Busca funcionarios php</a>
     <ul class="right hide-on-med-and-down">
       <li><a href="#">Estrutura</a></li>
       <li><a href="#">Estilo</a></li>
